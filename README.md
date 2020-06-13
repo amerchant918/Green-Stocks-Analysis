@@ -1,2 +1,2 @@
 # Green-Stocks-Analysis
-Challenge
+Challenge to refactor the macro for efficiency
